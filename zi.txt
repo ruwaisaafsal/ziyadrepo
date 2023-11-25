@@ -16,3 +16,4 @@ insert1
 insert2
 insert3
 >>>>>>> 3e9bd28580a4a3e4ed7dd1d16423b1b9915a1ecc
+fetchtest
