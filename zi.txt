@@ -6,18 +6,20 @@ Adding 5
 add 6
 test
 Added 7
-<<<<<<< HEAD
+
 added 8
 addedd 9
 10
-<<<<<<< HEAD
 =======
 insert
 insert1
 insert2
 insert3
->>>>>>> 3e9bd28580a4a3e4ed7dd1d16423b1b9915a1ecc
+
+
+fetchtest
+=======
 =======
 11
 testing fetch
->>>>>>> 5e1fae14dd0161768560e9473b291898152ad891
+
