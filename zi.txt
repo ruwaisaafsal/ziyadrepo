@@ -17,6 +17,10 @@ insert1
 insert2
 insert3
 >>>>>>> 3e9bd28580a4a3e4ed7dd1d16423b1b9915a1ecc
+<<<<<<< HEAD
 =======
 11
 >>>>>>> 5e1fae14dd0161768560e9473b291898152ad891
+=======
+fetchtest
+>>>>>>> f28d06a1612ac7e04e3f29dd74b7c317f6564b47
