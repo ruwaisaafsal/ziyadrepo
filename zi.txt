@@ -10,31 +10,4 @@ Added 7
 added 8
 addedd 9
 10
-=======
-insert
-insert1
-insert2
-insert3
-<<<<<<< HEAD
->>>>>>> 3e9bd28580a4a3e4ed7dd1d16423b1b9915a1ecc
-<<<<<<< HEAD
-=======
-11
->>>>>>> 5e1fae14dd0161768560e9473b291898152ad891
-=======
-fetchtest
->>>>>>> f28d06a1612ac7e04e3f29dd74b7c317f6564b47
-=======
 
-
-fetchtest
-=======
-=======
-11
-testing fetch
-
-Added fetching options
-
-good Night
-Finished
->>>>>>> 6d8e4df54fd432e3d6c84792090135cce2fe3e6b
