@@ -23,8 +23,3 @@ fetchtest
 11
 testing fetch
 
-Added fetching options
-
-good Night
-Finished
-Late night
