@@ -10,20 +10,4 @@ Added 7
 added 8
 addedd 9
 10
-=======
-insert
-insert1
-insert2
-insert3
 
-
-fetchtest
-=======
-=======
-11
-testing fetch
-
-Added fetching options
-
-good Night
-Finished
